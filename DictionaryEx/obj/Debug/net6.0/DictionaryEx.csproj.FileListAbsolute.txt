@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\DictionaryEx.exe
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\DictionaryEx.deps.json
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\DictionaryEx.runtimeconfig.json
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\DictionaryEx.dll
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\ref\DictionaryEx.dll
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\bin\Debug\net6.0\DictionaryEx.pdb
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.dll
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\ref\DictionaryEx.dll
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.pdb
+C:\Users\Pavani\source\repos\DictionaryEx\DictionaryEx\obj\Debug\net6.0\DictionaryEx.genruntimeconfig.cache
